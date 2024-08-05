@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "669dc14956362285296df11e"
+  },
+  "candidata": {
+    "_id": {
+      "$oid": "669db58575a960034e9ab8cf"
+    },
+    "imagen": "https://i.pinimg.com/564x/7f/d6/fd/7fd6fde254888432c4a245ab364ddbfc.jpg",
+    "nombre": "Carolina Guerrero"
+  },
+  "concepto": "Puntaje Inicial",
+  "puntaje": 9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669dc2c40c945a86441416b1"
+  },
+  "candidata": {
+    "_id": {
+      "$oid": "669db58575a960034e9ab8cf"
+    },
+    "imagen": "https://i.pinimg.com/564x/7f/d6/fd/7fd6fde254888432c4a245ab364ddbfc.jpg",
+    "nombre": "Carolina Guerrero"
+  },
+  "concepto": "Puntaje Inicial 2.1",
+  "puntaje": 9.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afff63e7c2e5d64bb7bfae"
+  },
+  "candidata": {
+    "_id": {
+      "$oid": "66ae3e533dc8484ba67a80e2"
+    },
+    "imagen": "https://i.pinimg.com/564x/6e/4f/02/6e4f02f1d705a283d768fe95629374c3.jpg",
+    "nombre": "María Fernanda Fajardo Rocillo"
+  },
+  "concepto": "Traje de Gala 1",
+  "puntaje": 9.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afffb9e7c2e5d64bb7bfb6"
+  },
+  "candidata": {
+    "_id": {
+      "$oid": "66ae3e533dc8484ba67a80e2"
+    },
+    "imagen": "https://i.pinimg.com/564x/6e/4f/02/6e4f02f1d705a283d768fe95629374c3.jpg",
+    "nombre": "María Fernanda Fajardo Rocillo"
+  },
+  "concepto": "Segundo Traje de Gala 2",
+  "puntaje": 9.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b000d4e7c2e5d64bb7bfcb"
+  },
+  "candidata": {
+    "_id": {
+      "$oid": "669d6231be927e105d0bb0ea"
+    },
+    "imagen": "https://i.pinimg.com/564x/cb/a9/37/cba9372bbbaa03ade5a0ce969e276645.jpg",
+    "nombre": "Solange Espinoza"
+  },
+  "concepto": "Prueba ",
+  "puntaje": 9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b0029261ff09fe7da84661"
+  },
+  "candidata": {
+    "_id": {
+      "$oid": "669d9e8c75a960034e9ab88c"
+    },
+    "imagen": "https://i.pinimg.com/564x/7e/4d/5d/7e4d5dab93d93e0ea4c243c7c8022692.jpg",
+    "nombre": "Marisol Angulo"
+  },
+  "concepto": "Traje Gala",
+  "puntaje": 9.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b013da61ff09fe7da84674"
+  },
+  "candidata": {
+    "_id": {
+      "$oid": "669d6231be927e105d0bb0ea"
+    },
+    "imagen": "https://i.pinimg.com/564x/cb/a9/37/cba9372bbbaa03ade5a0ce969e276645.jpg",
+    "nombre": "Solange Espinoza"
+  },
+  "concepto": "Puntuación bikini",
+  "puntaje": 9.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b02edf0a84472dcf74e74f"
+  },
+  "candidata": {
+    "_id": {
+      "$oid": "669d9e8c75a960034e9ab88c"
+    },
+    "imagen": "https://i.pinimg.com/564x/7e/4d/5d/7e4d5dab93d93e0ea4c243c7c8022692.jpg",
+    "nombre": "Marisol Angulo"
+  },
+  "concepto": "Traje Gala 2",
+  "puntaje": 9,
+  "__v": 0
+}]

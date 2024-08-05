@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "669d6231be927e105d0bb0ea"
+  },
+  "imagen": "https://i.pinimg.com/564x/cb/a9/37/cba9372bbbaa03ade5a0ce969e276645.jpg",
+  "nombre": "Solange Estefania Espinoza Jara",
+  "edad": 20,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669d9e8c75a960034e9ab88c"
+  },
+  "imagen": "https://i.pinimg.com/564x/7e/4d/5d/7e4d5dab93d93e0ea4c243c7c8022692.jpg",
+  "nombre": "Paula Marisol Ordoñez Angulo",
+  "edad": 22,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669db58575a960034e9ab8cf"
+  },
+  "imagen": "https://i.pinimg.com/564x/7f/d6/fd/7fd6fde254888432c4a245ab364ddbfc.jpg",
+  "nombre": "Carolina Isabel Guerrero Jurado",
+  "edad": 20,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ae3e533dc8484ba67a80e2"
+  },
+  "imagen": "https://i.pinimg.com/564x/6e/4f/02/6e4f02f1d705a283d768fe95629374c3.jpg",
+  "nombre": "María Fernanda Fajardo Rocillo",
+  "edad": 23,
+  "__v": 0
+}]
